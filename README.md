@@ -1,5 +1,4 @@
 # DeliciasBolo-PowerBI
-Repositório para armazenamento de arquivos sobre a organização fictícia Delicia's Bolo utilizando o software Microsoft Power BI.
 
 Este foi meu primeiro projeto no Power BI, no qual  pude ter um profundo contato com a ferramenta, além de ter me motivado a conhecer mais sobre  ela.
 
