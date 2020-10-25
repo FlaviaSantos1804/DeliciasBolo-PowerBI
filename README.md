@@ -2,6 +2,8 @@
 
 Este foi meu primeiro projeto no Power BI, no qual  pude ter um profundo contato com a ferramenta, além de ter me motivado a conhecer mais sobre  ela.
 
+Para ter acesso aos dashboards, basta clicar no link: https://app.powerbi.com/view?r=eyJrIjoiMmVmMTZjNjMtMDBhNy00MDhhLTgzM2UtMjZkYTc4NDczZjBkIiwidCI6ImY0OTU3ZmZkLTQ1NWItNDUyNC05YzVhLTYxODlkMDhjNDllZSJ9 ou copiá-lo e colá-lo no espaço adequado no navegador. 
+
 A base de dados  foi criada por mim no excel com a extensão xlsx.
 
 Dentro do Power BI,  ela foi tratada  e assim, os relatórios foram  feitos. 
